@@ -6914,10 +6914,10 @@ icss-utils@^4.0.0, icss-utils@^4.1.1:
   dependencies:
     postcss "^7.0.14"
 
-idb@3.0.2:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/idb/-/idb-3.0.2.tgz#c8e9122d5ddd40f13b60ae665e4862f8b13fa384"
-  integrity sha512-+FLa/0sTXqyux0o6C+i2lOR0VoS60LU/jzUo5xjfY6+7sEEgy4Gz1O7yFBXvjd7N0NyIGWIRg8DcQSLEG+VSPw==
+idb@5.0.3:
+  version "5.0.3"
+  resolved "https://registry.yarnpkg.com/idb/-/idb-5.0.3.tgz#d69d8845ecfb9e7791edd77696e40e1fd9c3c82b"
+  integrity sha512-ozfTR2owoslXWtfyQU2/tEUK1SXkCUb7gLq0wpvGWM8EZRwHr1rajEQGVsWT1bgfBiAenj/OXTn7h+PskWAwbA==
 
 ieee754@^1.1.4:
   version "1.1.8"
